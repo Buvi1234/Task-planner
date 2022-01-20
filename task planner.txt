@@ -1,0 +1,7 @@
+Task Planner
+
+1.I created a todo were add todo to add list of task 
+2.list todo to list the number of tasks to be done
+3.In deletetodo we delete the task 
+4.In index.js file we have return the files to display the todo list
+5.In todo.js we have the function to add, list, delete the todo list
